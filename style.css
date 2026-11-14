@@ -42,3 +42,5 @@ h3 { font-size: 17px; margin: 16px 0 4px; }
 ul { padding-left: 22px; }
 .muted, footer { color: var(--muted); font-size: 15px; }
 footer { margin-top: 24px; }
+.appstore { display: inline-block; margin-top: 10px; line-height: 0; }
+.appstore img { width: 150px; height: 50px; }
